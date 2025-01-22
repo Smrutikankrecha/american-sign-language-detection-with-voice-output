@@ -1,0 +1,2 @@
+# american-sign-language-detection-with-voice-output
+This project enhances communication for mute and deaf individuals using American Sign Language (ASL). It detects ASL gestures, translates them into sentences, corrects grammar, and provides audio output. Leveraging computer vision, machine learning, and text-to-speech technology, the system ensures smooth and inclusive communication in real time.
